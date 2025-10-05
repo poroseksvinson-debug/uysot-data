@@ -1,0 +1,6 @@
+{
+  "regions": [
+    { "id": "region_1", "name_ru": "Ташкент" },
+    { "id": "region_2", "name_ru": "Самарканд" }
+  ]
+}
