@@ -27,6 +27,32 @@
           "display_order": 0
         }
       ]
+    },
+    {
+      "id": "33a7c57b-f3c3-44c0-8f03-abb872392a9c",
+      "owner_phone": "",
+      "title": "1",
+      "description": "1",
+      "property_type": "house",
+      "listing_type": "rent",
+      "price": 1,
+      "rooms_count": 1,
+      "address": "1",
+      "region_id": "region_1",
+      "status": "pending",
+      "view_count": 0,
+      "like_count": 0,
+      "is_promoted": false,
+      "created_at": "2025-10-07T06:00:22.284Z",
+      "updated_at": "2025-10-07T06:00:22.284Z",
+      "images": [
+        {
+          "id": "be763966-7270-433b-b4bc-88a7e5385184",
+          "listing_id": "33a7c57b-f3c3-44c0-8f03-abb872392a9c",
+          "image_url": "https://i.ibb.co/9k7nS5RD/photo-2025-02-14-21-21-06.jpg",
+          "display_order": 0
+        }
+      ]
     }
   ]
 }
